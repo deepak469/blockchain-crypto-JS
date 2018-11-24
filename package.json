@@ -1,0 +1,27 @@
+{
+  "name": "blockchain-sample",
+  "version": "1.0.0",
+  "description": "blockchain crypto currency",
+  "main": "main.js",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "elliptic": "^6.4.1"
+  },
+  "devDependencies": {
+    "crypto-js": "^3.1.9-1",
+    "elliptic": "^6.4.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepak469/blockchain-crypto-JS.git"
+  },
+  "author": "Deepak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepak469/blockchain-crypto-JS/issues"
+  },
+  "homepage": "https://github.com/deepak469/blockchain-crypto-JS#readme"
+}
